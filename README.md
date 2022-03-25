@@ -1,3 +1,5 @@
+
+
 ### Olá! Eu sou o Matheus Santos 🖐🏽 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheussantosguedes00)
@@ -6,6 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=18g2ghsdoyh1v&utm_content=1u36gg1)
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantosguedes00&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosguedes00&langs_count=8)](https://github.com/matheussantosguedes00/github-readme-stats)
 
 ## Tecnologias que uso no meu dia 
 
@@ -18,7 +21,6 @@
 <img align ="center"alt="C++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align ="center"alt="C#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosguedes00&langs_count=8)](https://github.com/matheussantosguedes00/github-readme-stats)
 
 ## Sobre
 Tenho interesse por desafios, me adapto facilmente às mudanças e procuro
@@ -27,3 +29,5 @@ aprendi na faculdade de Sistema de Informação.
 
 ## Contatos
 - Email : matsangue81@gmail.com
+
+
