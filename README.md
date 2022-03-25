@@ -18,6 +18,7 @@
 <img align ="center"alt="C++"src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img align ="center"alt="C#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosguedes00&langs_count=8)](https://github.com/matheussantosguedes00/github-readme-stats)
 
 ## Sobre
 Tenho interesse por desafios, me adapto facilmente às mudanças e procuro
