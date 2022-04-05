@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=18g2ghsdoyh1v&utm_content=1u36gg1)
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantosguedes00&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosguedes00&langs_count=8)](https://github.com/matheussantosguedes00/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia 
 
