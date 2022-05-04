@@ -9,7 +9,7 @@
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantosguedes00&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantosguedes00&langs_count=8)](https://github.com/matheussantosguedes00/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
